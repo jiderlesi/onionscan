@@ -3,7 +3,7 @@ package onionscan
 import (
 	"errors"
 	"fmt"
-	"github.com/s-rah/onionscan/report"
+	"github.com/jiderlesi/onionscan/report"
 	"github.com/jiderlesi/onionscan/utils"
 	"strings"
 )

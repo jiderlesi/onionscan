@@ -3,8 +3,8 @@ package protocol
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/s-rah/onionscan/config"
-	"github.com/s-rah/onionscan/report"
+	"github.com/jiderlesi/onionscan/config"
+	"github.com/jiderlesi/onionscan/report"
 	"github.com/jiderlesi/onionscan/utils"
 )
 
