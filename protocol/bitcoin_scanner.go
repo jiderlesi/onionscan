@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"github.com/s-rah/onionscan/config"
 	"github.com/s-rah/onionscan/report"
-	"github.com/s-rah/onionscan/utils"
+	"github.com/jiderlesi/onionscan/utils"
 	"io"
 	"net"
 	"regexp"
